@@ -12,6 +12,7 @@ import (
 func indexHdndler(w http.ResponseWriter, r *http.Request, _ httprouter.Params) {
 	fmt.Fprint(w, "This is the RESTful api")
 }
+
 func main() {
 
 	route := httprouter.New()
