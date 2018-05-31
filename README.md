@@ -1,5 +1,19 @@
 # goDevPath
 
+
+##  go的目标是 
+
+```
+构建高可用 高性能的 分布式系统
+```
+
+
+## go标准库 by - example
+https://books.studygolang.com/The-Golang-Standard-Library-by-Example/
+
+
+
+
 ## go 零基础教程
 ### Book
 https://songjiayang.gitbooks.io/go-basic-courses/content/  
